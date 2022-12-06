@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "../wormhole/wormchain"
+    },
+    {
+      "path": "../wormhole/sdk"
+    },
+    {
+      "path": "../wormhole/cosmwasm"
+    },
+    {
+      "path": "../wormhole/node"
+    },
+    {
+      "path": "../wormhole/proto"
+    }
+  ],
+}
