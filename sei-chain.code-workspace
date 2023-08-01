@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../sei-chain"
+		},
+		{
+			"path": "../sei-cosmwasm"
+		},
+		{
+			"path": "../sei-wasmd"
+		},
+		{
+			"path": "../sei-token-translator"
+		},
+		{
+			"path": "../sei-cosmos"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../example-sei-relayer"
+		},
+		{
+			"path": "../relayer-engine"
+		},
+		{
+			"path": "../token-bridge-relayer"
+		}
+	],
+	"settings": {}
+}

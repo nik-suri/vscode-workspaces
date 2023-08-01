@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../wasmd"
+		},
+		{
+			"path": "../wasmvm"
+		},
+		{
+			"path": "../cosmwasm"
+		}
+	],
+	"settings": {}
+}

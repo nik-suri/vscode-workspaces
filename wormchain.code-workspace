@@ -7,10 +7,19 @@
       "path": "../wormhole/sdk"
     },
     {
+      "path": "../wormhole/spydk"
+    },
+    {
       "path": "../wormhole/cosmwasm"
     },
     {
       "path": "../wormhole/terra"
+    },
+    {
+      "path": "../wormhole/ethereum"
+    },
+    {
+      "path": "../wormhole/solana"
     },
     {
       "path": "../wormhole/node"
@@ -26,6 +35,9 @@
     },
     {
       "path": "../wormhole/devnet"
+    },
+    {
+      "path": "../wormhole/testing"
     },
     {
       "path": "../wormhole/whitepapers"
